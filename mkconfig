@@ -1,0 +1,8 @@
+<$HOME/app/mk/inc/config
+PROGNAME = 9bc
+INCS = $INC9
+DEFS = -D_DEFAULT_SOURCE
+AFILES = $OBJ9
+YFILES = main.y
+YCFILES = y.tab.c
+YHFILES = y.tab.h
